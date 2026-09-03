@@ -1,0 +1,1 @@
+se realizo una clase con los metodos de la television , encender, apagar , subir canal , bajar canal y introducir canal , todos se llaman desde la clase main, los atributos son privados por lo tanto son private
